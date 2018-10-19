@@ -1,5 +1,9 @@
 # When CMake and libuv fall in love
 
+> **Project archived.**  
+> It doesn't make much sense to keep it open now.  
+> Finally, also `libuv` has [built-in support](https://github.com/libuv/libuv/blob/v1.x/CMakeLists.txt) for cmake.
+
 ## Introduction
 
 While I was working to [`uvw`](https://github.com/skypjack/uvw), I found that a lot of people had difficulties to integrate [`libuv`](https://github.com/libuv/libuv) in their `cmake` based projects.  
